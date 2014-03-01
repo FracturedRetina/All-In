@@ -13,17 +13,6 @@ public enum DeckType {
 	 * 32-card deck with values 2 through 6 removed.
 	**/
 	PIQUET(32);
-//	PINOCHLE(),
-//	TAROT(),
-//	ITALIAN(),
-//	SPANISH(),
-//	SWISS(),
-//	GERMAN(),
-//	CENTRAL_EUOROPEAN(),
-//	RUSSIAN(),
-//	EAST_ASIAN(),
-//	MONGOLIAN(),
-//	INDIAN();
 	
 	public final int SIZE;
 	DeckType(int numOfCards) {
